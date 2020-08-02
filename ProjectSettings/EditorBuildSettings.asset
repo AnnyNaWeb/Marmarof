@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Options.unity
     guid: 35e4b2c1341a69047bb6d61463d1e9b3
+  - enabled: 1
+    path: Assets/Scenes/Saindo.unity
+    guid: dbc9363a720a09e4bafdd67c7c3ff394
   m_configObjects: {}
